@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ratneshransr
-- 👀 I’m interested in android app development
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on android app development
+- 👀 I’m interested in most things like tech music movie games travelling etc
+- 🌱 I’m currently working as software developer
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ratneshk253@gmail.com
 
 <!---
